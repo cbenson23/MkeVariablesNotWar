@@ -1,18 +1,18 @@
 /******************
  * YOUR CODE BELOW *
  ******************/
-let myFirstName = "Kyle";
-let myLastName = "Rose";
-let myBestFriend = "Arnold";
+let myFirstName = "Chris";
+let myLastName = "Benson";
+let myBestFriend = "Jana";
 let mySentence = "My name is " + myFirstName + myLastName + myBestFriend;
-let myFavoriteNum = 25;
-let myMentalAge = 25;
-let myHeight = 70;
-let myFavoriteYear = 2002;
+let myFavoriteNum = 23;
+let myMentalAge = 13;
+let myHeight = 72;
+let myFavoriteYear = 1998;
 let mySum = 3 + 1918 + 24 + 1;
 let myProduct = 232 * 43 / 2 + 4;
 let myHeightAndAge = myMentalAge + myHeight;
-console.log('Hello, World');
+
 
 
 
